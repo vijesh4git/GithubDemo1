@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10639" started-at="2020-11-27T04:07:46Z" finished-at="2020-11-27T04:07:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10639" started-at="2020-11-27T04:07:46Z" finished-at="2020-11-27T04:07:57Z">
+      <class name="com.sqldb.utilities.DBConnectionUtility">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sqldb.utilities.DBConnectionUtility@5bcab519]" name="beforeTest" is-config="true" duration-ms="4167" started-at="2020-11-27T04:07:46Z" finished-at="2020-11-27T04:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TestDB()[pri:0, instance:com.sqldb.utilities.DBConnectionUtility@5bcab519]" name="TestDB" duration-ms="6458" started-at="2020-11-27T04:07:50Z" finished-at="2020-11-27T04:07:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDB -->
+      </class> <!-- com.sqldb.utilities.DBConnectionUtility -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
